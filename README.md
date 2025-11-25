@@ -40,7 +40,7 @@ These patterns support targeted retention actions, optimized product-tier strate
 
 ## 🖼️ Dashboard Preview
 
-![Cover Page](images/01_Cover.png)
+![Cover Page](images/03_PortfolioOverview.png)
 
 👉 [**View Full Dashboard (PDF)**](files/AurionBank_CustomerChurn_Report.pdf)
 👉 [**Download Power BI File (PBIX)**](files/AurionBank_CustomerChurn.pbix)
