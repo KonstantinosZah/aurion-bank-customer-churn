@@ -1,4 +1,4 @@
-# 📊 Aurion Bank — Customer Churn Analysis (Power BI)
+# 📊 Aurion Bank - Customer Churn Analysis (Power BI)
 
 This project analyzes customer churn for **Aurion Bank** using a public Kaggle dataset (~10k customers).  
 It explores customer profiles, behavioral patterns, engagement levels, churn drivers, and business recommendations.  
