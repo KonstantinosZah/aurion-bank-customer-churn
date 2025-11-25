@@ -1,11 +1,11 @@
-# 📊 Aurion Bank - Customer Churn Analysis (Power BI)
+# Aurion Bank - Customer Churn Analysis (Power BI)
 
 This project analyzes customer churn for **Aurion Bank** using a public Kaggle dataset (~10k customers).  
 It explores customer profiles, behavioral patterns, engagement levels, churn drivers, and business recommendations.  
 The dashboard is built in **Power BI**, using a clean data model, DAX measures, and visual storytelling.
 
 
-## 🗂️ Project Structure
+## Project Structure
 
 - PBIX file: Full Power BI report  
 - PDF report: Printable version  
@@ -13,7 +13,7 @@ The dashboard is built in **Power BI**, using a clean data model, DAX measures, 
 - README: Executive summary, insights & recommendations  
 
 
-## 📁 Files
+## Files
 
 - [AurionBank_CustomerChurn.pbix](files/AurionBank_CustomerChurn.pbix)  
 - [AurionBank_CustomerChurn_Report.pdf](files/AurionBank_CustomerChurn_Report.pdf)  
@@ -21,7 +21,7 @@ The dashboard is built in **Power BI**, using a clean data model, DAX measures, 
 All dashboard images are stored in the `images` folder.
 
 
-## 🧩 Executive Summary
+## Executive Summary
 
 ### **Objective**  
 Analyze churn behavior across credit card customers to identify risk patterns and retention opportunities.
@@ -38,7 +38,7 @@ Analyze churn behavior across credit card customers to identify risk patterns an
 These patterns support targeted retention actions, optimized product-tier strategy, and early detection of disengagement signals.
 
 
-## 🖼️ Dashboard Preview
+## Dashboard Preview
 
 ![Cover Page](images/03_PortfolioOverview.png)
 
@@ -56,13 +56,13 @@ These patterns support targeted retention actions, optimized product-tier strate
 - Visual storytelling  
 
 
-## 📚 Dataset Source
+## Dataset Source
 
 Public dataset from Kaggle:  
 **“Bank Customer Churn Prediction”** (10,127 customers, anonymized)
 
 
-## 💡 Key Recommendations
+## Key Recommendations
 
 - **Re-activate low-use customers (0–10%):** targeted incentives; reminders after 1 month inactivity.  
 - **Support high-utilization customers (90–100%):** credit-limit reviews; tailored repayment options.  
@@ -73,7 +73,7 @@ Public dataset from Kaggle:
 - **Focus on Blue tier:** largest segment; improvements here deliver the biggest overall impact.
 
 
-## 🌐 Portfolio Site (Coming Soon)
+## Portfolio Site (Coming Soon)
 
 This report will appear on my BI portfolio site:  
 👉 https://kzanalytics.com
