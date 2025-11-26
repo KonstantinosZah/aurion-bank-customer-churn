@@ -46,7 +46,7 @@ These patterns support targeted retention actions, optimized product-tier strate
 👉 [**Download Power BI File (PBIX)**](files/AurionBank_CustomerChurn.pbix)
 
 
-## 🛠️ Tools & Techniques
+## Tools & Techniques
 
 - Power BI Desktop  
 - Power Query (data cleaning)  
