@@ -73,8 +73,9 @@ Public dataset from Kaggle:
 - **Focus on Blue tier:** largest segment; improvements here deliver the biggest overall impact.
 
 
-## Portfolio Site (Coming Soon)
+## More Projects
 
-This report will appear on my BI portfolio site:  
+This case study is part of my BI portfolio.
+To explore more projects, visit my website:  
 👉 https://kzanalytics.com
 
